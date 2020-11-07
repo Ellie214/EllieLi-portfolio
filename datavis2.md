@@ -6,3 +6,7 @@
 # GDP debt ratio across countries and year 
 Using Grid of line charts(sparklines) to demonstrate the same dataset as the above chart directly from OECD. 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4274698"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# GDP debt ratio across countries and year
+Using a grid of bar charts to compare each countries's ratio across years.
+<div class="flourish-embed flourish-chart" data-src="visualisation/4274811"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
