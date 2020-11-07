@@ -11,3 +11,5 @@ Coming from a background in visual arts and filmmaking, I feel like data visuali
 
 # Portfolio
 Here's where all of my cool data visualizations will go!
+
+[Click to see Assign 2](/datavis2.md)
