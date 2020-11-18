@@ -13,3 +13,5 @@ Coming from a background in visual arts and filmmaking, I feel like data visuali
 Here's where all of my cool data visualizations will go!
 
 [Click to see Assign 2](/datavis2.md)
+
+[Click to see Assign 3&4](datavis3&4.md)
