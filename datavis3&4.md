@@ -1,4 +1,7 @@
 # Original Visualization:
+## click here to the original website: [The JT Index: September 2020](https://jingculturecommerce.com/the-jt-index-september-2020/)
+
+Here are the visualizations I have critiqued and redesigned:
 
 ![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.08-AM.png)
 ![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.45-AM.png)
