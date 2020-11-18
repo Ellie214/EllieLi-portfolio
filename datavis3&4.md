@@ -5,6 +5,8 @@ Here are the visualizations I have critiqued and redesigned:
 
 ![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.08-AM.png)
 ![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.45-AM.png)
+Images made by Peter Huang.
+Huang, P.(2020). The JT Index[graph]. Jing Culture and Commerce(formerly Jing Travel). https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.08-AM.png
 
 # This is the visualization I designed:
 
