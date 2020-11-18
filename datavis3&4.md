@@ -1,11 +1,13 @@
-# Original Visualization:
-## click here to the original website: [The JT Index: September 2020](https://jingculturecommerce.com/the-jt-index-september-2020/)
+# This is a visualization I recreated from Jing Travel's Index Report.
+## Original Visualization
+### Click here to the original website: [The JT Index: September 2020](https://jingculturecommerce.com/the-jt-index-september-2020/)
 
-Here are the visualizations I have critiqued and redesigned:
+Here are the original visualizations from the website:
 
 ![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.08-AM.png)
 ![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.45-AM.png)
 Images made by Peter Huang.
+
 Huang, P.(2020). The JT Index[graph]. Jing Culture and Commerce(formerly Jing Travel). https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.08-AM.png
 
 # This is the visualization I designed:
