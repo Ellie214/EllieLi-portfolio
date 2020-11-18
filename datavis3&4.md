@@ -1,5 +1,7 @@
 # Original Visualization:
 
+![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.08-AM.png)
+![alt text](https://jingculturecommerce.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-9.56.45-AM.png)
 
 # This is the visualization I designed:
 
