@@ -8,7 +8,7 @@ For my final project, I would like to utilize data visualization to tell a story
 
 My story arc starts off with an introduction and overview of the project: what is population aging and how it occurs. Then my story builds up to identifying the problem of population aging, why it is imperative to not only the U.S., but globally. Then it gradually reaches the climax to what impact are made by this issue, across countries, as well as demonstrating some policies that combat such challenge. Then it fades into hope, projection, and solutions for future designs, including societal, arts and environmental aspects. 
 
-Structure of my project will look like the following:
+**Structure of my project will look like the following:**
 
 *Introduction and Background*
 
@@ -52,11 +52,11 @@ I will combine the three datasets and make two data visualization. The first one
 
 The second graph is a line graph. I will take out the % of population above age 65 in each country in from 1980 to 2035, and demonstrate a visualization of how each country's elderly population change over time. I will highlight the global average and this will show how the countries perform against each other.
 
-Dataset 3: [Age Distribution of the Population, 1950-2060](https://www.urban.org/sites/default/files/2015/10/09/t2_age_distribution.pdf), from Urban Institute Program on Retirement Policy, which based on the calculation from Census Bureau. I also downloaded tables of population by age and sex from Census Bureau as reference. The lastest projection Census did was in 2017, [link here](https://www.census.gov/data/tables/2017/demo/popproj/2017-summary-tables.html). 
+Dataset 4: [Age Distribution of the Population, 1950-2060](https://www.urban.org/sites/default/files/2015/10/09/t2_age_distribution.pdf), from Urban Institute Program on Retirement Policy, which based on the calculation from Census Bureau. I also downloaded tables of population by age and sex from Census Bureau as reference. The lastest projection Census did was in 2017, [link here](https://www.census.gov/data/tables/2017/demo/popproj/2017-summary-tables.html). 
 
 This dataset will be used to make several bar charts like a population age pyramid, and the shapes of the bar shart visualizes the shift in demographic of population by age in the U.S., from history to present, then to the future.
 
-Dataset 4: [Working age population, by country](https://data.oecd.org/pop/working-age-population.htm), from OECD.
+Dataset 5: [Working age population, by country](https://data.oecd.org/pop/working-age-population.htm), from OECD.
 
 This dataset helps the audience to visualize how an aging population would potentially impact the working force over time. I will highlight Japan, and introduce how Japan faces this challenge.
 
