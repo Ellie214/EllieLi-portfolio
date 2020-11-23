@@ -34,7 +34,7 @@ This last part is call to action where I urge the audience to take action and pe
 
 ### Initial Sketches
 
-![test image](/initialsketch.heic)
+![test image 2](/initialsketch.HEIC)
 
 ### The Data
 
