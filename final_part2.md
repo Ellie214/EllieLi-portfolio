@@ -4,7 +4,26 @@
 
 I chose to use Balsamiq to make a wireframe of the final website.
 
+![test image](/Wireframe1.png)
+
 The data visualizations are sketched as the followings(Sorry because I failed to insert them into the wireframe):
+
+**Data visualization1:**
+
+![test image2](/vis1.png)
+
+**Data visualization2:**
+
+![test image3](/vis2.jpg)
+
+**Data visualization3:**
+
+![test image4](/vis3.jpg)
+
+**Data visualization4:**
+
+![test image5](/vis4.jpg)
+
 
 
 ## User Research
