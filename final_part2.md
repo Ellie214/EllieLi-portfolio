@@ -1,4 +1,4 @@
-# This is the second part: USER RESEARCH of my final project.
+# Part II: WIREFRAME & USER RESEARCH 
 
 ## Wireframe/storyboard
 
@@ -43,7 +43,15 @@ Answer from B: It depends. I already know the issue, so I may not spend more tim
 
 Answer from C: Yeah, most likely. It's something that would brings my attention.
 
-**Key Findings and Plans on Changing**
 
-1. 
+### Key Findings and Plans on Changing
 
+**1. The presentation is lack of interactions and interest to target audience.**
+
+Plans: a) Add some interaction part to the impact part, something like a future scenario case to demonstrate how our future would be like with aging population;
+b) Change the first cloud word graph using a shape of an old couple;
+c) Demonstrate a clear heading, especially the title, and change it to "Aging population: design future" to better emphasize the design opportunity aspect.
+
+**2. The data visualizations are not strong/diverse enough.**
+
+Plans: a) 
