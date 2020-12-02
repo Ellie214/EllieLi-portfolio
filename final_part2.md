@@ -16,15 +16,19 @@ The data visualizations are sketched as the followings(Sorry because I failed to
 
 ![test image3](/vis2.jpg)
 
+Data Source: Census Bureau.
+
 **Data visualization3:**
 
 ![test image4](/vis3.jpg)
+
+Data Source: ChildStats.gov and Census Bureau.
 
 **Data visualization4:**
 
 ![test image5](/vis4.jpg)
 
-
+Data Source: OECD.
 
 ## User Research
 
