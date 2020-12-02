@@ -29,7 +29,7 @@ Answer from C: The wireframe is easy to follow through. I don't feel related tha
 
 *Question 3: Are the visualizations make sense or help you understand the content?*
 
-Answer from A: Yes. I really like the comparision bar chart where you can clearly visualize the change over time. I did not know what the population distribution was like back in the 80s, so it's a great visual, at least more powerful than a piece of text describing the change.
+Answer from A: Yes. I really like the population pyramid where you can clearly visualize the change over time. I did not know what the population distribution was like back in the 80s, so it's a great visual, at least more powerful than a piece of text describing the change.
 
 Answer from B: I like how you make the tabs so we can potentially click on the year to see the graph accordingly. The visualizations are helpful in terms of understanding the issue, but I hope to see more visuals under the design opportunities and impacts part.
 
@@ -49,9 +49,13 @@ Answer from C: Yeah, most likely. It's something that would brings my attention.
 **1. The presentation is lack of interactions and interest to target audience.**
 
 Plans: a) Add some interaction part to the impact part, something like a future scenario case to demonstrate how our future would be like with aging population;
+
 b) Change the first cloud word graph using a shape of an old couple;
+
 c) Demonstrate a clear heading, especially the title, and change it to "Aging population: design future" to better emphasize the design opportunity aspect.
 
 **2. The data visualizations are not strong/diverse enough.**
 
-Plans: a) 
+Plans: a) redesign the data visuals(add colors), and make a better connection between the visuals and the texts;
+
+b) Add some more visuals to the impacts and policy sections, adding a treemap to illustrate why I pick Japan and Singapore(highest countries with population over 65).
