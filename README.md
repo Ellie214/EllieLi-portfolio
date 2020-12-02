@@ -17,3 +17,5 @@ Here's where all of my cool data visualizations will go!
 [Click to see Assign 3&4](datavis3&4.md)
 
 [Click to see Final Project Part 1](final_project_Ellie.md)
+
+[Click to see Final Project Part 2](final_part2.md)
