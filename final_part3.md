@@ -1,6 +1,8 @@
 # Final Project Part 3 (Behind the scene)
 
-(For how I came up with the project and the user test/research, please check Part1 and Part2)
+(For how I came up with the project and the user test/research, please check [Part1](/final_project_Ellie.md) and [Part2](/final_part2.md))
+
+[Click to see Final Deliverables on Shorthand](https://carnegiemellon.shorthandstories.com/Ellie-design-future-aging-population/index.html)
 
 ## Data Story
 
