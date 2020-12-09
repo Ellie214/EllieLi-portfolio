@@ -1,4 +1,4 @@
-# Final Project Part 3 (Behing the scene)
+# Final Project Part 3 (Behind the scene)
 
 (For how I came up with the project and the user test/research, please check Part1 and Part2)
 
