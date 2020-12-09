@@ -13,11 +13,20 @@ I hope to learn different ways to enhance my skills of data visualization, which
 Coming from a background in visual arts and filmmaking, I feel like data visualization is something I need the most. I like to picture things visually, and data makes more sense in a visualizated way than mere numbers. I have come across many grpahs in reports that I read through these semesters, and I discovered how important it is to demonstrate a proper graph. Some graphs are punctual and easy to follow, while some are pretty confusing. Therefore, I would like to use the knowledge I learned from this course, which in my mind is very practical, and apply it to my future studies and works.
 
 # Portfolio
+
 Here's where all of my cool data visualizations will go!
 
-[Click to see Assign 2](/datavis2.md)
+## Visualizing Government Debt
 
-[Click to see Assign 3&4](/datavis3&4.md)
+This project expands and redesigns a visualization of Government Debt, using the dataset provided by OECD.
+
+[Click to see details](/datavis2.md)
+
+## Critique by Design
+
+This project critiques a chart used in "JT Index" by Jing Travel through redesigning a new visualization that I personally think works more efficiently.
+
+[Click to see details](/datavis3&4.md)
 
 ## Design Future: Aging Population
 
