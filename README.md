@@ -16,10 +16,32 @@ Here's where all of my cool data visualizations will go!
 
 [Click to see Assign 3&4](/datavis3&4.md)
 
-[Click to see Final Project Part 1](/final_project_Ellie.md)
+## Design Future: Aging Population
 
-[Click to see Final Project Part 2](/final_part2.md)
+**Part 1: The Idea**
 
+- Project outline and a brief summary
+
+- Project Structure and major elements 
+
+- Data resources, and plans to conduct visualizations
+
+- Method and medium
+
+[Click to see Part 1](/final_project_Ellie.md)
+
+**Part 2: User Research and Wireframe**
+
+- Sketches of projected visualizations
+
+- User research with interview script and findings
+
+- Wireframe(using Balsamiq)
+
+[Click to see Part 2](/final_part2.md)
+
+**Final Deliverable**
 [Click to see Final Deliverables on Shorthand](https://carnegiemellon.shorthandstories.com/Ellie-design-future-aging-population/index.html)
 
+**Reflection**
 [Click to see Final Project Reflection(Behind the Scene)](/final_part3.md)
