@@ -20,6 +20,6 @@ Here's where all of my cool data visualizations will go!
 
 [Click to see Final Project Part 2](/final_part2.md)
 
-[Click to see Final Deliverables on Shorthand](/https://carnegiemellon.shorthandstories.com/Ellie-design-future-aging-population/index.html)
+[Click to see Final Deliverables on Shorthand](https://carnegiemellon.shorthandstories.com/Ellie-design-future-aging-population/index.html)
 
 [Click to see Final Project Reflection(Behind the Scene)](/final_part3.md)
